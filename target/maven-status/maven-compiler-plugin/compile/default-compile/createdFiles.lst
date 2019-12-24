@@ -1,0 +1,7 @@
+com/tangze/Parser.class
+com/tangze/treedist/Tree.class
+com/tangze/AST.class
+com/tangze/JsonReader.class
+com/tangze/AST$Node.class
+com/tangze/DotMaker.class
+com/tangze/App.class
